@@ -1,2 +1,4 @@
 # PasswordGenerator
 Password Generator: Write a program, which generates a random password for the user. Ask t password should be a minimum of 6 characters long. he user how long they want their password to be, and how many letters and numbers they want in their password.Have a mix of upper and lowercase letters, as well as numbers and symbols. 
+
+
